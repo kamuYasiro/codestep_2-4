@@ -31,6 +31,8 @@ li{
   display: flex;
   align-items: flex-end;
 }
+.header-titleWrapper a{
+	color:var(--main-color);
 .header-titleWrapper-title{
   font-size:5rem;
   color:var(--main-color);
