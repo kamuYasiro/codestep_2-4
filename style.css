@@ -471,7 +471,7 @@ li{
     display: block;
     margin:0 auto;
     box-sizing: border-box;
-    top:55%;
+    top:400px;
   }
   .bl_fv-catch-text{
     font-size:4rem;
@@ -547,9 +547,6 @@ li{
     }
     .bl_fv{
       height:500px;
-    }
-    .bl_fv-catch{
-      top:60%;
     }
     .bl_media{
       flex-direction: column;
