@@ -255,9 +255,6 @@ li{
   opacity:0.9;
 }
 
-.bl_media-text{
-  padding-top:60px;
-}
 .bl_media-text h3{
   font-size:2.4rem;
   color:var(--main-color);
@@ -403,7 +400,7 @@ li{
   padding-bottom:3.6rem;
 }
 .ly_c4 h2{
-  font-size:3rem;
+  font-size:2.9rem;
 }
 .ly_c4 p{
   font-size:1.8rem;
