@@ -31,7 +31,7 @@ li{
   display: flex;
   align-items: flex-end;
 }
-.header-titleWrapper a{
+.header-titleWrapper-title a{
 	color:var(--main-color);
 }
 .header-titleWrapper-title{
